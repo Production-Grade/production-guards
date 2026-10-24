@@ -1,6 +1,6 @@
 {
   "name": "production-guards",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Stops the expensive habits: full-resolution image reads on big models, renders and downloads in the foreground, sleep-and-poll loops.",
   "author": {
     "name": "Production Grade",

@@ -4,7 +4,8 @@
   "description": "Stops the expensive habits: full-resolution image reads on big models, renders and downloads in the foreground, sleep-and-poll loops.",
   "author": {
     "name": "Production Grade",
-    "url": "https://productiongrade.substack.com"
+    "url": "https://productiongrade.substack.com",
+    "email": "support@productiongrade.tech"
   },
   "license": "MIT",
   "homepage": "https://github.com/Production-Grade/production-guards",

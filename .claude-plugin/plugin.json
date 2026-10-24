@@ -1,9 +1,15 @@
 {
   "name": "production-guards",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Stops the expensive habits: full-resolution image reads on big models, renders and downloads in the foreground, sleep-and-poll loops.",
   "author": {
-    "name": "Production Grade"
+    "name": "Production Grade",
+    "url": "https://productiongrade.substack.com"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "homepage": "https://github.com/Production-Grade/production-guards",
+  "repository": "https://github.com/Production-Grade/production-guards",
+  "documentationUrl": "https://github.com/Production-Grade/production-guards#readme",
+  "supportUrl": "https://github.com/Production-Grade/production-guards/issues",
+  "privacyPolicyUrl": "https://github.com/Production-Grade/production-guards/blob/main/PRIVACY.md"
 }

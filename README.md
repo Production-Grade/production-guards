@@ -44,4 +44,11 @@ Commands are matched where they start: at the beginning, or after `;`, `&&`, `|`
 `grep "ffmpeg"` passes. A pattern with a `|` in it, such as a sed expression that names one of
 these tools, can still be caught. If that happens, make the edit with the file tools instead.
 
+## More from Production Grade
+
+Walkthroughs of these mods and of how I run Claude Code on real work:
+
+- YouTube: [@productiongradeai](https://www.youtube.com/@productiongradeai)
+- Substack: [productiongrade.substack.com](https://productiongrade.substack.com)
+
 Part of [Claude Lean Mods](https://github.com/Production-Grade/claude-lean-mods). MIT licence.

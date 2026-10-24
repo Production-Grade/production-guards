@@ -1,0 +1,13 @@
+{
+  "name": "production-guards",
+  "owner": {
+    "name": "Production Grade"
+  },
+  "plugins": [
+    {
+      "name": "production-guards",
+      "source": "./",
+      "description": "Stops the expensive habits: full-resolution image reads on big models, renders and downloads in the foreground, sleep-and-poll loops."
+    }
+  ]
+}
